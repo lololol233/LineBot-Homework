@@ -15,5 +15,5 @@
 1657608749
 
 ## QRCode
-
+https://github.com/lololol233/LineBot-Homework/blob/master/QRcode.png
 
